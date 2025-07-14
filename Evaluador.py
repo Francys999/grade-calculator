@@ -1,4 +1,5 @@
-##Estoy creando el archivo Evaluador.py 
+##Estoy creando el archivo evaluador.py
+ 
 NOTA_APROBATORIA = 12.5
 NOTA_SUSTI = 10.5
 
